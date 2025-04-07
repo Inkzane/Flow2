@@ -1,0 +1,43 @@
+body {
+    background-color: aquamarine;
+    color: rgb(0, 0, 0);
+  }
+  header {
+    background-color: rgb(22, 154, 171);
+    margin: 20px;
+    padding: 15px;
+    border: 5px solid rgb(52, 52, 239);
+  }
+  h1 {
+    text-align: center;
+    font-size: 50px;
+  }
+  div {
+    background-color: rgb(19, 203, 59);
+    width: auto;
+    border: 55px solid rgb(10, 97, 147);
+    padding: 20px;
+    margin: 60px;
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+    font-size: 20px;
+  }
+  .imagen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  a:link,
+  a:visited {
+    background-color: #17e343;
+    color: rgb(0, 0, 0);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover,
+  a:active {
+    background-color: rgb(126, 120, 120);
+  }
